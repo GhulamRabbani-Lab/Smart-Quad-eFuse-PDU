@@ -1,7 +1,6 @@
-===============================================================================
+================================================
 SPS-QUAD-120: SMART 4-CHANNEL POWER DISTRIBUTION UNIT
-===============================================================================
-
+================================================
 OVERVIEW
 The SPS-QUAD-120 is a high-reliability power management platform designed for 
 robotics, industrial automation, and high-current embedded systems. It 
